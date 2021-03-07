@@ -7,7 +7,7 @@ During the practical, after building my site locally, I searched for a deploymen
 
 In the GitHub Pages documentation I found that GitHub supports Jekyll sites. I read through the Jekyll documentation to learn about how it worked — a static site generator, very similar to a CMS except that the site is converted to static files at the time of deployment rather than kept in a database and built on demand. I then read the documentation page for Liquid templating in Jekyll.
 
-Completed practical: [OverPro](https://github.com/rileysommerville/overpro)
+Completed practical: [OverPro](https://rileysommerville.github.io/overpro/)
 
 My site describes a startup that creates custom video titles and overlay setups for streaming services. It presents an overview of the business in a single-page design. Note that links to other pages have been intentionally omitted (they don't exist yet).
 
