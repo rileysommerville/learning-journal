@@ -5,6 +5,8 @@ After watching the lecture, I watched the demo on using Vagrant and ScotchBox to
 
 To test my set-up, I first hosted my site from prac 1 on the VM server to test. Then, after installing Joomla on the same server, I changed the content and settings of the default theme to match my startup business.
 
+Completed practical: [OverPro (Joomla)](https://sites.glam.dev/overpro/)
+
 ## Resources/Links
 * [Command-Line Interface on Vagrant](https://www.vagrantup.com/docs/cli)
 * [Installing Joomla on Joomla Documentation](https://docs.joomla.org/J4.x:Installing_Joomla)
