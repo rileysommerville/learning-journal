@@ -11,3 +11,7 @@ Completed practical: [OverPro (WordPress)](https://sites.glam.dev/overpro-wp/)
 ## Estimated Hours
 
 9 hours
+
+# Content Insights
+
+I added additional CSS to my site (lifted straight from my static site from week 1) to switch my theme to light-on-dark colours. The CSS was valid, but WordPress refused to save my changes with an unspecified error. After looking for mentions of similar problems online and a bit of trial and error, I found tha the 'additional CSS' field will refuse `@import`s, even though the live preview will consume and use these rules without issue.
