@@ -11,3 +11,7 @@ After watching the lecture and demo, I set up a WordPress installation on my loc
 ## Estimated Hours
 
 7 hours
+
+## Content Insights
+
+Managing a CMS can get convoluted and confusing quickly. With so many components required to make it work, things can break — fast. Luckily, a lot of these processes are routine and repeatable, which means that plenty of tools are available to automate them.
